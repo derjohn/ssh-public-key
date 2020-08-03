@@ -1,5 +1,10 @@
 # ssh-public-key
-Here you can find my public key.
+Here you can find my public keys.
 
-The filename is id_rsa.pub .
+## SSH Keys
+The filename is id_rsa.pub for the  RSA key .
+The filename is id_ed25519.pub for the elliptic curve key (preferred) .
+
+## GPG
+The filename is gpg-pubkey.asc .
 
